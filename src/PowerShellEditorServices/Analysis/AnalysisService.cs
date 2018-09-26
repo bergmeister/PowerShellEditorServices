@@ -33,6 +33,7 @@ namespace Microsoft.PowerShell.EditorServices
         private static readonly string[] s_includedRules = {
             "PSUseToExportFieldsInManifest",
             "PSMisleadingBacktick",
+            "foo",
             "PSAvoidUsingCmdletAliases",
             "PSUseApprovedVerbs",
             "PSAvoidUsingPlainTextForPassword",
